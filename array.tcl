@@ -1,5 +1,4 @@
 # Arrays and Looping 
-
 set VLSI(0) RTL
 set VLSI(1) PD
 set VLSI(2) ANALOG
